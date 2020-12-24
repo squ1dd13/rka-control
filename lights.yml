@@ -1,0 +1,21 @@
+kone_aimo:
+  # Scroll wheel colours
+  wheel: "6158ff"
+
+  # Each ribbon has 4 LEDs inside.
+  left_ribbon:
+    - "6158ff80"
+    - "457cffa0"
+    - "1facffbe"
+    - "00d4ffff"
+
+  right_ribbon:
+    - "6158ff80"
+    - "457cffa0"
+    - "1facffbe"
+    - "00d4ffff"
+
+  left_panel: "00ff6d"
+  right_panel: "00ff6d"
+
+  brightness: 255
