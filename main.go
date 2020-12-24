@@ -1,4 +1,4 @@
-package rka
+package main
 
 import (
 	"fmt"
